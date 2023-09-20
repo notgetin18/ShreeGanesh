@@ -1,9 +1,10 @@
-import { Hero } from "@/components";
+import { Hero, Login } from "@/components";
 
 export default function Home() {
   return (
     <main className="overflow-hidden">
-      <Hero />
+      {/* <Hero /> */}
+      <Login />
     </main>
   );
 }

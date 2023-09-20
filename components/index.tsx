@@ -1,5 +1,10 @@
 import CustomButton from "./CustomButton";
 import Footer from "./Footer";
 import Hero from "./Hero";
+import Login from "./Login";
 import Navbar from "./Navbar";
-export { CustomButton, Navbar, Footer, Hero };
+import PaymentButtons from "./PaymentButtons";
+import ProductCard from "./ProductCard";
+import ProductDetail from "./ProductDetail";
+import QRCodeModal from "./QRCodeModal";
+export { CustomButton, Navbar, Footer, Hero, Login, ProductCard, ProductDetail, PaymentButtons, QRCodeModal };
