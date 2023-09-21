@@ -7,4 +7,16 @@ import PaymentButtons from "./PaymentButtons";
 import ProductCard from "./ProductCard";
 import ProductDetail from "./ProductDetail";
 import QRCodeModal from "./QRCodeModal";
-export { CustomButton, Navbar, Footer, Hero, Login, ProductCard, ProductDetail, PaymentButtons, QRCodeModal };
+import Qr from "./Qr";
+export {
+  CustomButton,
+  Navbar,
+  Footer,
+  Hero,
+  Login,
+  ProductCard,
+  ProductDetail,
+  PaymentButtons,
+  QRCodeModal,
+  Qr,
+};
